@@ -12,7 +12,7 @@ an initiative to sequence the genomes of European eukaryotic species for biodive
 
 **Size**
 
-Total length - 492.36 megabases (Mb)
+Total length - 492.3 megabases (Mb)
 
 98.03% is scaffolded into 14 chromosomal pseudomolecules, including the X and Y sex chromosomes.
 The mitochondrial genome has also been assembled and is 22.01 kilobases (kb) in length.
