@@ -1,0 +1,4 @@
+67f4e62343c42eea84905ff9be18b342  ncbi_dataset/data/data_summary.tsv
+7a85ffc3a9ec61d7abee778cf7c3973a  ncbi_dataset/data/assembly_data_report.jsonl
+7cf4544c1d3db9a1cdca1c6d43d076a3  ncbi_dataset/data/GCA_947310635.1/GCA_947310635.1_icLepHoch12.1_genomic.fna
+821804bd4bb546719f7918ac78edcca1  ncbi_dataset/data/dataset_catalog.json
